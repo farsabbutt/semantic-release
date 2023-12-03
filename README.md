@@ -14,3 +14,6 @@ This is another text for the heading three.
 
 ## Heading 5
 This is another text for the heading for 5.
+
+## Heading 6
+This is another text for the heading for 6.
