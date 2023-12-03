@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/farsabbutt/semantic-release/compare/v1.3.0...v1.4.0) (2023-12-03)
+
+
+### Features
+
+* **docs:** add heading 5 to docs ([14a35a0](https://github.com/farsabbutt/semantic-release/commit/14a35a07992f371f779e8868af9ec7325562f9cf))
+
 # [1.4.0-canary.1](https://github.com/farsabbutt/semantic-release/compare/v1.3.0...v1.4.0-canary.1) (2023-12-03)
 
 
