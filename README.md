@@ -5,3 +5,6 @@ This is just some dummy text
 
 ## Heading 2
 This is another text
+
+## Heading 3
+This is another text for the heading three.
