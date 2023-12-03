@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/farsabbutt/semantic-release/compare/v1.1.0...v1.2.0) (2023-12-03)
+
+
+### Features
+
+* **docs:** update docs ([220ea55](https://github.com/farsabbutt/semantic-release/commit/220ea55c9cbc26223b7afe3c269fc5338cc617ca))
+
 # [1.2.0-canary.1](https://github.com/farsabbutt/semantic-release/compare/v1.1.0...v1.2.0-canary.1) (2023-12-03)
 
 
