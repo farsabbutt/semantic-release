@@ -8,3 +8,6 @@ This is another text
 
 ## Heading 3
 This is another text for the heading three.
+
+## Heading 4
+This is another text for the heading three.
